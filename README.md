@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohib Rajput</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohibrajput7&label=Profile%20views&color=0e75b6&style=flat" alt="mohibrajput7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohibrajput7" alt="mohibrajput7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mohibrajput" target="blank"><img src="https://img.shields.io/twitter/follow/mohibrajput?logo=twitter&style=for-the-badge" alt="mohibrajput" /></a> </p>
-
 - 📫 How to reach me **imranmohib30@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/ALLICOMPUTERS/OneDrive/Desktop/Portfolio%20By%20MIR/Portfolio%20By%20MIR/index.html](file:///C:/Users/ALLICOMPUTERS/OneDrive/Desktop/Portfolio%20By%20MIR/Portfolio%20By%20MIR/index.html)
