@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohibrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohibrajput" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad mohib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad mohib" height="30" width="40" /></a>
+<a href="https://fb.com/Muhammad Mohib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad mohib" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mohibimran._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohibimran_." height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/F8xW6XgKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/F8xW6XgKB" height="30" width="40" /></a>
 </p>
